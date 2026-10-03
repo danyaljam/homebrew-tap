@@ -2,7 +2,7 @@ class Dtools < Formula
   desc "Private local web utilities"
   homepage "https://github.com/danyaljam/DANTOOLS"
   url "https://github.com/danyaljam/DANTOOLS/releases/download/v1.0.0/dtools-1.0.0.zip"
-  sha256 "aabd81f678592c2b53551bcf3783c006b13bf89c9a2b5916f493199e35130d0a"
+  sha256 "5da53c941b2750a6348c1e972b68617f681bc3536a6417b7629c5110a9be16bf"
   version "1.0.0"
 
   depends_on "node"
